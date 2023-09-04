@@ -32,19 +32,18 @@
 <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white">
 </p>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyvibes&show_icons=true&locale=en&layout=compact" alt="crazyvibes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazyvibes&show_icons=true&locale=en" alt="crazyvibes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyvibes&" alt="crazyvibes" /></p>
 
+-->
+
 <h3 align="left">🌐Connect with me</h3>
 
 <p align="left">
-   <a href="https://crazyvibes.github.io/"><img align="center"
-      src="https://img.shields.io/badge/portfolio-D14836?style=for-the-badge&logo=web&logoColor=white"
-      alt="Birju Kumar"></a> 
   <a href="https://www.linkedin.com/in/birju-kumar-07763b136/" target="blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Birju Kumar"></a> 
@@ -54,4 +53,3 @@
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
