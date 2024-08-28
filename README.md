@@ -5,7 +5,7 @@
 
 <h3 align="left">👨‍💻About Me</h3>
 
-- 🌱I'm currently learning **iOS development**.
+- 🌱I'm currently learning **Cross plateform app development**.
 - 💪Mostly I work on **Android and iOS projects**.
 - 🤙Looking to collaborate on cool projects.
 - 📫Reach out to me: **bkm123r@gmail.com**
